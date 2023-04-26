@@ -1,4 +1,4 @@
-#Contagrows - An Automated Hydroponic Container System
+# Contagrows - An Automated Hydroponic Container System
 # Project Overview
 
 
