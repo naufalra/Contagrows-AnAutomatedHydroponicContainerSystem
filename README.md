@@ -24,6 +24,22 @@ To short things out, this is the directories of this project.
  - [Electrical Design](https://github.com/naufalra/Contagrows/tree/main/1.%20Electrical)
  - [Mechanical Design](https://github.com/naufalra/Contagrows/tree/main/3.%20Mechanical)
  - [Arduino Program](https://github.com/naufalra/Contagrows/tree/main/2.%20Firmware)
+
+
+# Intelligent property rights
+
+**Alat Otomasi dan Monitoring Budidaya Hidroponik**
+
+```bash
+  https://pdki-indonesia.dgip.go.id/detail/A00202203526?type=di&keyword=A00202203526 
+```
+
+**Media Tanam Pertanian Vertikal Hidroponik pada Kontainer**
+
+```bash
+ https://pdki-indonesia.dgip.go.id/detail/A00202203525?type=di&keyword=A00202203525
+```
+
 # Final Result
 ![Electrical](https://user-images.githubusercontent.com/39290210/234175010-8649c43a-4a43-4684-89ae-32dccd52d0e7.jpg)
 
@@ -62,19 +78,11 @@ The panel box is used as the setting center of the tool before the automation pr
 We also ad LCD protector as an additional protection for LCD from dust and water drops.
 ![PanelBox](https://user-images.githubusercontent.com/39290210/234172961-44cd830b-c37a-46a3-8a55-6677136c2436.png)
 
+## Overall System
+This is the final result of recent design
+![PanelBox](https://user-images.githubusercontent.com/39290210/234467175-9d5296a6-133c-400f-b2c6-a7ed8bbc9f86.jpg)
+
+![PanelBox](https://user-images.githubusercontent.com/39290210/234467186-87b9bc23-5988-4874-8410-a479a6a61f9f.png)
 
 
 
-## Intelligent property rights
-
-**Alat Otomasi dan Monitoring Budidaya Hidroponik**
-
-```bash
-  https://pdki-indonesia.dgip.go.id/detail/A00202203526?type=di&keyword=A00202203526 
-```
-
-**Media Tanam Pertanian Vertikal Hidroponik pada Kontainer**
-
-```bash
- https://pdki-indonesia.dgip.go.id/detail/A00202203525?type=di&keyword=A00202203525
-```
